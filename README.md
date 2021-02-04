@@ -1,4 +1,4 @@
-title: Newton Kim
+<h1 class="project-name">{{ page.title | default: site.title }}</h1>
 
 ## Welcome
 
