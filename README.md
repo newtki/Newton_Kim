@@ -1,9 +1,9 @@
 ## Welcome
 
-### Markdown
+### Python
 
-### Jekyll Themes
+### SQL
 
-### Support or Contact
+### R
 
-
+### Stata
