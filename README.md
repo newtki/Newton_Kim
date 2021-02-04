@@ -1,4 +1,4 @@
-<h1>Newton Kim</h1>
+title: Newton Kim
 
 ## Welcome
 
